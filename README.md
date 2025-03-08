@@ -1,2 +1,2 @@
-# RTS_JDMS
+# Tareas SIstemas en Tiempo Real 2024-2
 Repository for real time systems resources, assignments and projects
